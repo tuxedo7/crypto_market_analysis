@@ -1,0 +1,3420 @@
+[
+    {
+        "company": {
+            "id": 1,
+            "name": "iShares Bitcoin Trust",
+            "ticker": "IBIT",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.ishares.com/us/products/333122/ishares-bitcoin-trust",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "iShares Bitcoin Trust is a Bitcoin-based exchange-traded fund (ETF) that invests in Bitcoin. The fund is managed by BlackRock, one of the world's largest asset managers.",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T18:37:31.217Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed May 07 2025",
+                "usdValue": 55894303728.171875
+            },
+            {
+                "date": "Thu Nov 07 2024",
+                "usdValue": 27815183908.25
+            },
+            {
+                "date": "Thu Aug 08 2024",
+                "usdValue": 18943716059.785156
+            },
+            {
+                "date": "Wed May 08 2024",
+                "usdValue": 15420034301.730469
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 576038,
+                "usdValue": 55894303728.171875,
+                "lastUpdated": "2025-05-07T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 55894303728.171875,
+        "lastUpdated": "2025-08-28T18:37:31.217Z"
+    },
+    {
+        "company": {
+            "id": 2,
+            "name": "Microstrategy, Inc.",
+            "ticker": "MSTR",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.microstrategy.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 104278368000,
+            "description": "MicroStrategy Incorporated provides global business analysis software and services. The company is headquartered in Tysons Corner, Virginia.",
+            "headquarters": "1850 TOWERS CRESCENT PLAZA, TYSONS CORNER, VA, US",
+            "updatedAt": "2025-07-02T11:21:52.143Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Mon May 05 2025",
+                "usdValue": 52627806976.171875
+            },
+            {
+                "date": "Thu Oct 31 2024",
+                "usdValue": 17709674591.25
+            },
+            {
+                "date": "Tue Aug 06 2024",
+                "usdValue": 12682302866.542969
+            },
+            {
+                "date": "Wed May 01 2024",
+                "usdValue": 12482553123.070312
+            },
+            {
+                "date": "Wed Nov 01 2023",
+                "usdValue": 5607768244.394531
+            },
+            {
+                "date": "Tue Aug 01 2023",
+                "usdValue": 4520593347.021484
+            },
+            {
+                "date": "Mon May 01 2023",
+                "usdValue": 3932819570.3125
+            },
+            {
+                "date": "Tue Nov 01 2022",
+                "usdValue": 2663085546.875
+            },
+            {
+                "date": "Tue Aug 02 2022",
+                "usdValue": 2980238821.1015625
+            },
+            {
+                "date": "Tue May 03 2022",
+                "usdValue": 4878038051.90625
+            },
+            {
+                "date": "Thu Oct 28 2021",
+                "usdValue": 6913469715.6796875
+            },
+            {
+                "date": "Thu Jul 29 2021",
+                "usdValue": 4204285012.734375
+            },
+            {
+                "date": "Thu Apr 29 2021",
+                "usdValue": 1116998916.234375
+            },
+            {
+                "date": "Tue Oct 27 2020",
+                "usdValue": 522273867.1875
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 555450,
+                "usdValue": 52627806976.171875,
+                "lastUpdated": "2025-05-05T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 52627806976.171875,
+        "lastUpdated": "2025-07-02T11:21:52.143Z"
+    },
+    {
+        "company": {
+            "id": 3,
+            "name": "Fidelity Wise Origin Bitcoin Fund",
+            "ticker": "FBTC",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.fidelity.com/etfs/bitcoin-etf/overview",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T02:54:22.086Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Fri May 09 2025",
+                "usdValue": 20754401621.389553
+            },
+            {
+                "date": "Wed Nov 13 2024",
+                "usdValue": 16336366991.81014
+            },
+            {
+                "date": "Fri Aug 09 2024",
+                "usdValue": 10195154703.043728
+            },
+            {
+                "date": "Thu May 09 2024",
+                "usdValue": 9123611870.907099
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 201556.08413894,
+                "usdValue": 20754401621.389553,
+                "lastUpdated": "2025-05-09T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 20754401621.389553,
+        "lastUpdated": "2025-08-28T02:54:22.086Z"
+    },
+    {
+        "company": {
+            "id": 4,
+            "name": "Grayscale Bitcoin Trust",
+            "ticker": "GBTC",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://grayscale.com/products/grayscale-bitcoin-trust/",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T11:19:28.464Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Fri May 02 2025",
+                "usdValue": 18746500128.934612
+            },
+            {
+                "date": "Fri Nov 01 2024",
+                "usdValue": 1871568489.7411096
+            },
+            {
+                "date": "Fri Aug 02 2024",
+                "usdValue": 16934282721.376678
+            },
+            {
+                "date": "Fri May 03 2024",
+                "usdValue": 21126771255.992188
+            },
+            {
+                "date": "Fri Nov 03 2023",
+                "usdValue": 21626324451.212044
+            },
+            {
+                "date": "Fri Aug 04 2023",
+                "usdValue": 18194679307.047417
+            },
+            {
+                "date": "Fri May 05 2023",
+                "usdValue": 18575125594.52461
+            },
+            {
+                "date": "Fri Nov 04 2022",
+                "usdValue": 13433478786.354631
+            },
+            {
+                "date": "Fri Aug 05 2022",
+                "usdValue": 14868976680.817732
+            },
+            {
+                "date": "Fri May 06 2022",
+                "usdValue": 23125218726.670074
+            },
+            {
+                "date": "Fri Nov 05 2021",
+                "usdValue": 39613644207.28375
+            },
+            {
+                "date": "Fri Aug 06 2021",
+                "usdValue": 27888275916.608383
+            },
+            {
+                "date": "Fri May 07 2021",
+                "usdValue": 37545508297.62817
+            },
+            {
+                "date": "Fri Nov 06 2020",
+                "usdValue": 7001393499.921222
+            },
+            {
+                "date": "Fri Aug 07 2020",
+                "usdValue": 4486558535.085233
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 193442.23018809,
+                "usdValue": 18746500128.934612,
+                "lastUpdated": "2025-05-02T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 18746500128.934612,
+        "lastUpdated": "2025-08-28T11:19:28.464Z"
+    },
+    {
+        "company": {
+            "id": 8,
+            "name": "ARK 21Shares Bitcoin ETF",
+            "ticker": "ARKB",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://21shares.com/product/arkb",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T17:29:57.074Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Tue May 13 2025",
+                "usdValue": 4948177253.356918
+            },
+            {
+                "date": "Tue Nov 12 2024",
+                "usdValue": 4444817739.379844
+            },
+            {
+                "date": "Fri Aug 09 2024",
+                "usdValue": 2802055741.307828
+            },
+            {
+                "date": "Mon May 13 2024",
+                "usdValue": 2809638940.562584
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 47501.0671,
+                "usdValue": 4948177253.356918,
+                "lastUpdated": "2025-05-13T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 4948177253.356918,
+        "lastUpdated": "2025-08-28T17:29:57.074Z"
+    },
+    {
+        "company": {
+            "id": 7,
+            "name": "MARA Holdings, Inc.",
+            "ticker": "MARA",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.mara.com",
+            "sector": "REAL ESTATE & CONSTRUCTION",
+            "marketCap": 5525270000,
+            "description": "Marathon Digital Holdings, Inc. is a cryptocurrency mining digital asset technology company with a focus on the blockchain ecosystem and digital asset generation in the United States. The company is headquartered in Las Vegas, Nevada.",
+            "headquarters": "1180 N. TOWN CENTER DRIVE, SUITE 100, LAS VEGAS, NV, US",
+            "updatedAt": "2025-07-02T11:21:56.644Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 08 2025",
+                "usdValue": 4907169879.8203125
+            },
+            {
+                "date": "Tue Nov 12 2024",
+                "usdValue": 2352554116.9375
+            },
+            {
+                "date": "Thu Aug 01 2024",
+                "usdValue": 1319437210
+            },
+            {
+                "date": "Thu May 09 2024",
+                "usdValue": 1092025323.4375
+            },
+            {
+                "date": "Wed Nov 08 2023",
+                "usdValue": 489047784.046875
+            },
+            {
+                "date": "Tue Aug 08 2023",
+                "usdValue": 373199741.046875
+            },
+            {
+                "date": "Wed May 10 2023",
+                "usdValue": 316711052.68359375
+            },
+            {
+                "date": "Mon Nov 14 2022",
+                "usdValue": 190112199.0625
+            },
+            {
+                "date": "Tue Aug 09 2022",
+                "usdValue": 232917221.10351562
+            },
+            {
+                "date": "Fri May 06 2022",
+                "usdValue": 172780179.46875
+            },
+            {
+                "date": "Mon Nov 15 2021",
+                "usdValue": 19067361.328125
+            },
+            {
+                "date": "Fri Aug 13 2021",
+                "usdValue": 46407314.0234375
+            },
+            {
+                "date": "Mon May 10 2021",
+                "usdValue": 295498325.46875
+            },
+            {
+                "date": "Thu Nov 12 2020",
+                "usdValue": 1278550
+            },
+            {
+                "date": "Fri Aug 14 2020",
+                "usdValue": 775349
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 47531,
+                "usdValue": 4907169879.8203125,
+                "lastUpdated": "2025-05-08T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 4907169879.8203125,
+        "lastUpdated": "2025-07-02T11:21:56.644Z"
+    },
+    {
+        "company": {
+            "id": 10,
+            "name": "Bitwise Bitcoin ETF",
+            "ticker": "BITB",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.bitwiseinvestments.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T10:14:03.297Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Mon May 12 2025",
+                "usdValue": 3907279617.9573746
+            },
+            {
+                "date": "Fri Nov 08 2024",
+                "usdValue": 3018612264.0359125
+            },
+            {
+                "date": "Thu Aug 08 2024",
+                "usdValue": 2315875061.292025
+            },
+            {
+                "date": "Mon May 13 2024",
+                "usdValue": 1992869711.3173995
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 38003.768,
+                "usdValue": 3907279617.9573746,
+                "lastUpdated": "2025-05-12T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 3907279617.9573746,
+        "lastUpdated": "2025-08-28T10:14:03.297Z"
+    },
+    {
+        "company": {
+            "id": 12,
+            "name": "Riot Platforms, Inc.",
+            "ticker": "RIOT",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.riotplatforms.com",
+            "sector": "LIFE SCIENCES",
+            "marketCap": 4033510000,
+            "description": "Riot Blockchain, Inc., focuses on the cryptocurrency mining operation in North America. The company is headquartered in Castle Rock, Colorado.",
+            "headquarters": "1775 38TH STREET, BOULDER, CO, US",
+            "updatedAt": "2025-07-02T11:22:03.926Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 01 2025",
+                "usdValue": 1854872173.7265625
+            },
+            {
+                "date": "Mon Nov 04 2024",
+                "usdValue": 707070591.9609375
+            },
+            {
+                "date": "Wed Jul 31 2024",
+                "usdValue": 603156079.5
+            },
+            {
+                "date": "Wed May 01 2024",
+                "usdValue": 494576559.4921875
+            },
+            {
+                "date": "Wed Nov 08 2023",
+                "usdValue": 261246217.09765625
+            },
+            {
+                "date": "Wed Aug 09 2023",
+                "usdValue": 214764254.93164062
+            },
+            {
+                "date": "Wed May 10 2023",
+                "usdValue": 195948736.06640625
+            },
+            {
+                "date": "Mon Nov 07 2022",
+                "usdValue": 139398655.8046875
+            },
+            {
+                "date": "Mon Aug 15 2022",
+                "usdValue": 160583279.08203125
+            },
+            {
+                "date": "Tue May 10 2022",
+                "usdValue": 188060857.6875
+            },
+            {
+                "date": "Mon Nov 15 2021",
+                "usdValue": 224549958.57421875
+            },
+            {
+                "date": "Mon Aug 23 2021",
+                "usdValue": 111181557.09375
+            },
+            {
+                "date": "Mon May 17 2021",
+                "usdValue": 68310355.88671875
+            },
+            {
+                "date": "Mon Nov 09 2020",
+                "usdValue": 18015470.629882812
+            },
+            {
+                "date": "Mon Aug 10 2020",
+                "usdValue": 12507651.228515625
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 19223,
+                "usdValue": 1854872173.7265625,
+                "lastUpdated": "2025-05-01T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1854872173.7265625,
+        "lastUpdated": "2025-07-02T11:22:03.926Z"
+    },
+    {
+        "company": {
+            "id": 13,
+            "name": "VanEck Bitcoin Trust",
+            "ticker": "HODL",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.vaneck.com/us/en/etf-digital-assets/hodl/overview/",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T05:47:51.027Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed May 14 2025",
+                "usdValue": 1478066551.5078125
+            },
+            {
+                "date": "Tue Nov 12 2024",
+                "usdValue": 1054732680.2912501
+            },
+            {
+                "date": "Tue Aug 13 2024",
+                "usdValue": 601672377.9061719
+            },
+            {
+                "date": "Mon May 13 2024",
+                "usdValue": 547943330.3474219
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 14275.4,
+                "usdValue": 1478066551.5078125,
+                "lastUpdated": "2025-05-14T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1478066551.5078125,
+        "lastUpdated": "2025-08-28T05:47:51.027Z"
+    },
+    {
+        "company": {
+            "id": 16,
+            "name": "Bitwise 10 Crypto Index Fund",
+            "ticker": "BITW",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.bitwiseinvestments.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T13:51:59.006Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Mon May 12 2025",
+                "usdValue": 1078373614.8457642
+            },
+            {
+                "date": "Mon May 12 2025",
+                "usdValue": 45091584.264797166
+            },
+            {
+                "date": "Mon May 12 2025",
+                "usdValue": 161953832.32191467
+            },
+            {
+                "date": "Fri Nov 08 2024",
+                "usdValue": 821490478.7972953
+            },
+            {
+                "date": "Fri Nov 08 2024",
+                "usdValue": 193380398.35255575
+            },
+            {
+                "date": "Fri Nov 08 2024",
+                "usdValue": 50663748.59416208
+            },
+            {
+                "date": "Thu Aug 08 2024",
+                "usdValue": 667871302.5412441
+            },
+            {
+                "date": "Thu Aug 08 2024",
+                "usdValue": 177536894.35219643
+            },
+            {
+                "date": "Thu Aug 08 2024",
+                "usdValue": 39805573.804219425
+            },
+            {
+                "date": "Mon May 13 2024",
+                "usdValue": 687157729.829373
+            },
+            {
+                "date": "Mon May 13 2024",
+                "usdValue": 36712150.157237604
+            },
+            {
+                "date": "Mon May 13 2024",
+                "usdValue": 197866213.71605706
+            },
+            {
+                "date": "Fri Nov 03 2023",
+                "usdValue": 387854193.92598635
+            },
+            {
+                "date": "Fri Nov 03 2023",
+                "usdValue": 125923363.9536122
+            },
+            {
+                "date": "Fri Nov 03 2023",
+                "usdValue": 9333270.130725177
+            },
+            {
+                "date": "Fri Aug 04 2023",
+                "usdValue": 339785456.82797265
+            },
+            {
+                "date": "Fri Aug 04 2023",
+                "usdValue": 132536888.67676602
+            },
+            {
+                "date": "Fri Aug 04 2023",
+                "usdValue": 5442009.783770365
+            },
+            {
+                "date": "Mon May 15 2023",
+                "usdValue": 317791196.1672515
+            },
+            {
+                "date": "Mon May 15 2023",
+                "usdValue": 133506078.94665776
+            },
+            {
+                "date": "Mon May 15 2023",
+                "usdValue": 4847600.018138067
+            },
+            {
+                "date": "Fri Nov 04 2022",
+                "usdValue": 7389832.7444847105
+            },
+            {
+                "date": "Fri Nov 04 2022",
+                "usdValue": 251856255.03859258
+            },
+            {
+                "date": "Fri Nov 04 2022",
+                "usdValue": 123853272.36975904
+            },
+            {
+                "date": "Fri Aug 05 2022",
+                "usdValue": 279819727.4400869
+            },
+            {
+                "date": "Fri Aug 05 2022",
+                "usdValue": 132759183.08038697
+            },
+            {
+                "date": "Fri Aug 05 2022",
+                "usdValue": 8725526.041687097
+            },
+            {
+                "date": "Wed May 11 2022",
+                "usdValue": 352632806.21721995
+            },
+            {
+                "date": "Wed May 11 2022",
+                "usdValue": 159975864.07894006
+            },
+            {
+                "date": "Wed May 11 2022",
+                "usdValue": 10360641.164370406
+            },
+            {
+                "date": "Wed Nov 10 2021",
+                "usdValue": 833630996.8328851
+            },
+            {
+                "date": "Wed Nov 10 2021",
+                "usdValue": 370916034.8286479
+            },
+            {
+                "date": "Wed Nov 10 2021",
+                "usdValue": 27639305
+            },
+            {
+                "date": "Fri Aug 13 2021",
+                "usdValue": 515410244.4407383
+            },
+            {
+                "date": "Fri Aug 13 2021",
+                "usdValue": 199521192.1866077
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 10488.6941,
+                "usdValue": 1078373614.8457642,
+                "lastUpdated": "2025-05-12T00:00:00"
+            },
+            {
+                "currency": "ETH",
+                "amount": 64875.0125,
+                "usdValue": 161953832.32191467,
+                "lastUpdated": "2025-05-12T00:00:00"
+            },
+            {
+                "currency": "SOL",
+                "amount": 258778.3597,
+                "usdValue": 45091584.264797166,
+                "lastUpdated": "2025-05-12T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1285419031.432476,
+        "lastUpdated": "2025-08-28T13:51:59.006Z"
+    },
+    {
+        "company": {
+            "id": 14,
+            "name": "CleanSpark, Inc.",
+            "ticker": "CLSK",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.cleanspark.com",
+            "sector": "REAL ESTATE & CONSTRUCTION",
+            "marketCap": 3112859000,
+            "description": "CleanSpark, Inc. provides energy software and control technology solutions worldwide. The company is headquartered in Woods Cross, Utah.",
+            "headquarters": "PO BOX 1593, MOAB, UT, US",
+            "updatedAt": "2025-07-02T11:22:07.314Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 08 2025",
+                "usdValue": 1225372899.8671875
+            },
+            {
+                "date": "Thu Feb 06 2025",
+                "usdValue": 961296490.5
+            },
+            {
+                "date": "Fri Aug 09 2024",
+                "usdValue": 401199946.5234375
+            },
+            {
+                "date": "Thu May 09 2024",
+                "usdValue": 316573853.8671875
+            },
+            {
+                "date": "Thu Feb 08 2024",
+                "usdValue": 135995302.3515625
+            },
+            {
+                "date": "Wed Aug 09 2023",
+                "usdValue": 15638030.400390625
+            },
+            {
+                "date": "Wed May 10 2023",
+                "usdValue": 5441485.904296875
+            },
+            {
+                "date": "Thu Feb 09 2023",
+                "usdValue": 5105655.140625
+            },
+            {
+                "date": "Wed Aug 10 2022",
+                "usdValue": 13479409.577949218
+            },
+            {
+                "date": "Tue May 10 2022",
+                "usdValue": 13391657.9409375
+            },
+            {
+                "date": "Wed Feb 09 2022",
+                "usdValue": 28814453.92515625
+            },
+            {
+                "date": "Mon Aug 16 2021",
+                "usdValue": 6624645.75
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 11869,
+                "usdValue": 1225372899.8671875,
+                "lastUpdated": "2025-05-08T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1225372899.8671875,
+        "lastUpdated": "2025-07-02T11:22:07.314Z"
+    },
+    {
+        "company": {
+            "id": 15,
+            "name": "Tesla",
+            "ticker": "TSLA",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.tesla.com",
+            "sector": "MANUFACTURING",
+            "marketCap": 1015727325000,
+            "description": "Tesla, Inc. is an American electric vehicle and clean energy company based in Palo Alto, California. Tesla's current products include electric cars, battery energy storage from home to grid-scale, solar panels and solar roof tiles, as well as other related products and services. In 2020, Tesla had the highest sales in the plug-in and battery electric passenger car segments, capturing 16% of the plug-in market (which includes plug-in hybrids) and 23% of the battery-electric (purely electric) market. Through its subsidiary Tesla Energy, the company develops and is a major installer of solar photovoltaic energy generation systems in the United States. Tesla Energy is also one of the largest global suppliers of battery energy storage systems, with 3 GWh of battery storage supplied in 2020.",
+            "headquarters": "3500 DEER CREEK RD, PALO ALTO, CA, US",
+            "updatedAt": "2025-07-08T15:54:28.137Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed Apr 23 2025",
+                "usdValue": 1078383049.796875
+            },
+            {
+                "date": "Mon Oct 24 2022",
+                "usdValue": 1500000000
+            },
+            {
+                "date": "Mon Jul 25 2022",
+                "usdValue": 1500000000
+            },
+            {
+                "date": "Mon Apr 25 2022",
+                "usdValue": 1500000000
+            },
+            {
+                "date": "Mon Oct 25 2021",
+                "usdValue": 1500000000
+            },
+            {
+                "date": "Tue Jul 27 2021",
+                "usdValue": 1500000000
+            },
+            {
+                "date": "Wed Apr 28 2021",
+                "usdValue": 2480000000
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 11509,
+                "usdValue": 1078383049.796875,
+                "lastUpdated": "2025-04-23T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1078383049.796875,
+        "lastUpdated": "2025-07-08T15:54:28.137Z"
+    },
+    {
+        "company": {
+            "id": 19,
+            "name": "CoinShares Valkyrie Bitcoin Fund",
+            "ticker": "BRRR",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://valkyrie.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T11:40:51.167Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 918036324.890625
+            },
+            {
+                "date": "Tue Nov 12 2024",
+                "usdValue": 790195019.5
+            },
+            {
+                "date": "Fri Aug 09 2024",
+                "usdValue": 509810068.6171875
+            },
+            {
+                "date": "Tue May 14 2024",
+                "usdValue": 472479208.84375
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 8849,
+                "usdValue": 918036324.890625,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 918036324.890625,
+        "lastUpdated": "2025-08-28T11:40:51.167Z"
+    },
+    {
+        "company": {
+            "id": 21,
+            "name": "Franklin Templeton",
+            "ticker": "EZBC",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.franklintempleton.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T15:57:32.219Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed Feb 12 2025",
+                "usdValue": 746332428.2300547
+            },
+            {
+                "date": "Tue Nov 12 2024",
+                "usdValue": 624824793.0811499
+            },
+            {
+                "date": "Wed Aug 14 2024",
+                "usdValue": 3406761.6328125
+            },
+            {
+                "date": "Fri Feb 23 2024",
+                "usdValue": 2942453.0546875
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 7624.5173,
+                "usdValue": 746332428.2300547,
+                "lastUpdated": "2025-02-12T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 746332428.2300547,
+        "lastUpdated": "2025-08-28T15:57:32.219Z"
+    },
+    {
+        "company": {
+            "id": 20,
+            "name": "Grayscale Digital Large Cap Fund",
+            "ticker": "GDLC",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://grayscale.com/products/digital-large-cap-fund/",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T18:15:05.135Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Fri May 02 2025",
+                "usdValue": 562895834.9396209
+            },
+            {
+                "date": "Fri May 02 2025",
+                "usdValue": 65112132.850537784
+            },
+            {
+                "date": "Fri May 02 2025",
+                "usdValue": 20828712.47971132
+            },
+            {
+                "date": "Wed Feb 05 2025",
+                "usdValue": 570234400.1123698
+            },
+            {
+                "date": "Wed Feb 05 2025",
+                "usdValue": 100228460.9898324
+            },
+            {
+                "date": "Wed Feb 05 2025",
+                "usdValue": 27439334.672080517
+            },
+            {
+                "date": "Fri Nov 01 2024",
+                "usdValue": 23163972.578582764
+            },
+            {
+                "date": "Fri Nov 01 2024",
+                "usdValue": 413073276.71875
+            },
+            {
+                "date": "Fri Nov 01 2024",
+                "usdValue": 90998075.93774414
+            },
+            {
+                "date": "Fri May 03 2024",
+                "usdValue": 18748881.31887667
+            },
+            {
+                "date": "Fri May 03 2024",
+                "usdValue": 375130480.95679194
+            },
+            {
+                "date": "Fri May 03 2024",
+                "usdValue": 113615802.80894141
+            },
+            {
+                "date": "Wed Feb 07 2024",
+                "usdValue": 274402524.4149868
+            },
+            {
+                "date": "Wed Feb 07 2024",
+                "usdValue": 92544860.02891262
+            },
+            {
+                "date": "Wed Feb 07 2024",
+                "usdValue": 13239231.379898667
+            },
+            {
+                "date": "Fri Nov 03 2023",
+                "usdValue": 5060205.628522984
+            },
+            {
+                "date": "Fri Nov 03 2023",
+                "usdValue": 216249601.78926882
+            },
+            {
+                "date": "Fri Nov 03 2023",
+                "usdValue": 70664746.65097475
+            },
+            {
+                "date": "Fri May 05 2023",
+                "usdValue": 185102025.82159856
+            },
+            {
+                "date": "Fri May 05 2023",
+                "usdValue": 79518343.86762635
+            },
+            {
+                "date": "Fri May 05 2023",
+                "usdValue": 2725801.9844937646
+            },
+            {
+                "date": "Wed Feb 08 2023",
+                "usdValue": 143426855.3687334
+            },
+            {
+                "date": "Wed Feb 08 2023",
+                "usdValue": 66020491.30489371
+            },
+            {
+                "date": "Wed Feb 08 2023",
+                "usdValue": 2685497.9231920913
+            },
+            {
+                "date": "Fri Nov 04 2022",
+                "usdValue": 135150976.7124714
+            },
+            {
+                "date": "Fri Nov 04 2022",
+                "usdValue": 66809703.78044733
+            },
+            {
+                "date": "Fri Nov 04 2022",
+                "usdValue": 3876207.026251167
+            },
+            {
+                "date": "Fri May 06 2022",
+                "usdValue": 236774601.93947324
+            },
+            {
+                "date": "Fri May 06 2022",
+                "usdValue": 108892107.0735601
+            },
+            {
+                "date": "Fri May 06 2022",
+                "usdValue": 8560861.088526744
+            },
+            {
+                "date": "Thu Feb 10 2022",
+                "usdValue": 287975354.2486696
+            },
+            {
+                "date": "Thu Feb 10 2022",
+                "usdValue": 125116242.58984624
+            },
+            {
+                "date": "Thu Feb 10 2022",
+                "usdValue": 11188400.10296769
+            },
+            {
+                "date": "Fri Nov 05 2021",
+                "usdValue": 432965555.1396085
+            },
+            {
+                "date": "Fri Nov 05 2021",
+                "usdValue": 186095185.93336907
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 5808.43490387,
+                "usdValue": 562895834.9396209,
+                "lastUpdated": "2025-05-02T00:00:00"
+            },
+            {
+                "currency": "ETH",
+                "amount": 35335.02697543,
+                "usdValue": 65112132.850537784,
+                "lastUpdated": "2025-05-02T00:00:00"
+            },
+            {
+                "currency": "SOL",
+                "amount": 140686.98248526,
+                "usdValue": 20828712.47971132,
+                "lastUpdated": "2025-05-02T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 648836680.26987,
+        "lastUpdated": "2025-08-28T18:15:05.135Z"
+    },
+    {
+        "company": {
+            "id": 22,
+            "name": "Invesco Galaxy Bitcoin ETF",
+            "ticker": "BTCO",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=BTCO",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T17:39:51.160Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 08 2025",
+                "usdValue": 546353811.28125
+            },
+            {
+                "date": "Thu Nov 07 2024",
+                "usdValue": 618017365.03125
+            },
+            {
+                "date": "Wed Aug 07 2024",
+                "usdValue": 382165716.2109375
+            },
+            {
+                "date": "Tue May 14 2024",
+                "usdValue": 363469219.4140625
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 5292,
+                "usdValue": 546353811.28125,
+                "lastUpdated": "2025-05-08T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 546353811.28125,
+        "lastUpdated": "2025-08-28T17:39:51.160Z"
+    },
+    {
+        "company": {
+            "id": 24,
+            "name": "Semler Scientific",
+            "ticker": "SMLR",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.semlerscientific.com",
+            "sector": "LIFE SCIENCES",
+            "marketCap": 511846000,
+            "description": "Semler Scientific, Inc. develops, manufactures, and markets proprietary products that help healthcare providers evaluate and treat patients with chronic conditions in the United States. The company is headquartered in Santa Clara, California.",
+            "headquarters": "2340-2348 WALSH AVENUE, SUITE 2344, SANTA CLARA, CA, US",
+            "updatedAt": "2025-07-09T05:59:44.392Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Tue May 13 2025",
+                "usdValue": 396678646
+            },
+            {
+                "date": "Tue Nov 05 2024",
+                "usdValue": 70608034.625
+            },
+            {
+                "date": "Tue Aug 06 2024",
+                "usdValue": 49142095.48828125
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 3808,
+                "usdValue": 396678646,
+                "lastUpdated": "2025-05-13T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 396678646,
+        "lastUpdated": "2025-07-09T05:59:44.392Z"
+    },
+    {
+        "company": {
+            "id": 17,
+            "name": "Coinbase Global, Inc.",
+            "ticker": "COIN",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.coinbase.com",
+            "sector": "FINANCE",
+            "marketCap": 90955153000,
+            "description": "Coinbase Global, Inc. provides financial infrastructure and technology for the crypto economy. The company is headquartered in Wilmington, Delaware.",
+            "headquarters": "C/O THE CORPORATION TRUST COMPANY, 1209 ORANGE STREET, WILMINGTON, DE, US",
+            "updatedAt": "2025-07-08T17:48:39.556Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 08 2025",
+                "usdValue": 13811430
+            },
+            {
+                "date": "Thu May 08 2025",
+                "usdValue": 219076329
+            },
+            {
+                "date": "Thu May 08 2025",
+                "usdValue": 28811726
+            },
+            {
+                "date": "Wed Oct 30 2024",
+                "usdValue": 630400000
+            },
+            {
+                "date": "Wed Oct 30 2024",
+                "usdValue": 630400000
+            },
+            {
+                "date": "Thu Aug 01 2024",
+                "usdValue": 22025477.5
+            },
+            {
+                "date": "Thu May 02 2024",
+                "usdValue": 88389533.22265625
+            },
+            {
+                "date": "Thu Nov 02 2023",
+                "usdValue": 22709857.421875
+            },
+            {
+                "date": "Thu Nov 02 2023",
+                "usdValue": 32376000
+            },
+            {
+                "date": "Thu Aug 03 2023",
+                "usdValue": 721995350440
+            },
+            {
+                "date": "Thu Aug 03 2023",
+                "usdValue": 18966141.796875
+            },
+            {
+                "date": "Thu May 04 2023",
+                "usdValue": 107161362183520000
+            },
+            {
+                "date": "Thu May 04 2023",
+                "usdValue": 541943748832420030
+            },
+            {
+                "date": "Thu Nov 03 2022",
+                "usdValue": 11100000
+            },
+            {
+                "date": "Thu Nov 03 2022",
+                "usdValue": 21900000
+            },
+            {
+                "date": "Tue Aug 09 2022",
+                "usdValue": 41700000000
+            },
+            {
+                "date": "Tue Aug 09 2022",
+                "usdValue": 18800000000
+            },
+            {
+                "date": "Tue May 10 2022",
+                "usdValue": 1042369650000
+            },
+            {
+                "date": "Tue May 10 2022",
+                "usdValue": 141313712475.58594
+            },
+            {
+                "date": "Wed Nov 10 2021",
+                "usdValue": 9079833.696484374
+            },
+            {
+                "date": "Wed Nov 10 2021",
+                "usdValue": 354667.3352050781
+            },
+            {
+                "date": "Wed Aug 11 2021",
+                "usdValue": 221900000
+            },
+            {
+                "date": "Wed Aug 11 2021",
+                "usdValue": 99600000
+            },
+            {
+                "date": "Fri May 14 2021",
+                "usdValue": 58300000
+            },
+            {
+                "date": "Fri May 14 2021",
+                "usdValue": 254700000
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 2121.9801,
+                "usdValue": 219076329,
+                "lastUpdated": "2025-05-08T00:00:00"
+            },
+            {
+                "currency": "ETH",
+                "amount": 13057.573,
+                "usdValue": 28811726,
+                "lastUpdated": "2025-05-08T00:00:00"
+            },
+            {
+                "currency": "SOL",
+                "amount": 84236.1788,
+                "usdValue": 13811430,
+                "lastUpdated": "2025-05-08T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 261699485,
+        "lastUpdated": "2025-07-08T17:48:39.556Z"
+    },
+    {
+        "company": {
+            "id": 39,
+            "name": "Horizon Kinetics Holding Corp",
+            "ticker": "HKHC",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://horizonkinetics.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T13:24:42.132Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed May 14 2025",
+                "usdValue": 199416911.484375
+            },
+            {
+                "date": "Wed May 14 2025",
+                "usdValue": 49390226.54711914
+            },
+            {
+                "date": "Tue Nov 12 2024",
+                "usdValue": 11515174.972499998
+            },
+            {
+                "date": "Tue Nov 12 2024",
+                "usdValue": 570367.4118652344
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 1926,
+                "usdValue": 199416911.484375,
+                "lastUpdated": "2025-05-14T00:00:00"
+            },
+            {
+                "currency": "ETH",
+                "amount": 18923,
+                "usdValue": 49390226.54711914,
+                "lastUpdated": "2025-05-14T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 248807138.03149414,
+        "lastUpdated": "2025-08-28T13:24:42.132Z"
+    },
+    {
+        "company": {
+            "id": 26,
+            "name": "Exodus Movement, Inc",
+            "ticker": "EXOD",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.exodus.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T15:31:49.480Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Mon May 12 2025",
+                "usdValue": 206756848.734375
+            },
+            {
+                "date": "Mon May 12 2025",
+                "usdValue": 6722799.019775391
+            },
+            {
+                "date": "Wed Nov 13 2024",
+                "usdValue": 163051495.3125
+            },
+            {
+                "date": "Wed Nov 13 2024",
+                "usdValue": 8355023.593994141
+            },
+            {
+                "date": "Mon Aug 12 2024",
+                "usdValue": 106482001.03125
+            },
+            {
+                "date": "Mon Aug 12 2024",
+                "usdValue": 7029034.2626953125
+            },
+            {
+                "date": "Thu May 16 2024",
+                "usdValue": 116894995
+            },
+            {
+                "date": "Thu May 16 2024",
+                "usdValue": 7510084.313964844
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 2011,
+                "usdValue": 206756848.734375,
+                "lastUpdated": "2025-05-12T00:00:00"
+            },
+            {
+                "currency": "ETH",
+                "amount": 2693,
+                "usdValue": 6722799.019775391,
+                "lastUpdated": "2025-05-12T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 213479647.7541504,
+        "lastUpdated": "2025-08-28T15:31:49.480Z"
+    },
+    {
+        "company": {
+            "id": 25,
+            "name": "WisdomTree Bitcoin Fund",
+            "ticker": "BTCW",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.wisdomtree.com/etfs/digital-assets/btcw",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T18:05:22.336Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 190893458.5785
+            },
+            {
+                "date": "Wed Nov 13 2024",
+                "usdValue": 335614327.8515625
+            },
+            {
+                "date": "Wed Aug 14 2024",
+                "usdValue": 75771077.6953125
+            },
+            {
+                "date": "Tue May 14 2024",
+                "usdValue": 70601049.0546875
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 1840.032,
+                "usdValue": 190893458.5785,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 190893458.5785,
+        "lastUpdated": "2025-08-28T18:05:22.336Z"
+    },
+    {
+        "company": {
+            "id": 28,
+            "name": "Fold Holdings Inc.",
+            "ticker": "FLD",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://foldapp.com",
+            "sector": "REAL ESTATE & CONSTRUCTION",
+            "marketCap": 207357000,
+            "description": "",
+            "headquarters": "2929 ARCH ST., ,SUITE 1703, PHILADELPHIA, PA, US",
+            "updatedAt": "2025-07-13T05:59:27.621Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 163812787.546875
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 1579,
+                "usdValue": 163812787.546875,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 163812787.546875,
+        "lastUpdated": "2025-07-13T05:59:27.621Z"
+    },
+    {
+        "company": {
+            "id": 74,
+            "name": "Satsuma Digital Plc",
+            "ticker": "SATS",
+            "exchange": "",
+            "country": "GBR",
+            "countryCode": "GB",
+            "website": "https://www.satsuma.digital/",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-18T09:25:24.322Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed Aug 06 2025",
+                "usdValue": 126219074.11999999
+            },
+            {
+                "date": "Thu Jul 24 2025",
+                "usdValue": 84482290000
+            },
+            {
+                "date": "Mon Jul 14 2025",
+                "usdValue": 3423025.38264655
+            },
+            {
+                "date": "Thu Jul 10 2025",
+                "usdValue": 24044827
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 1097.29,
+                "usdValue": 126219074.11999999,
+                "lastUpdated": "2025-08-06T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 126219074.11999999,
+        "lastUpdated": "2025-08-18T09:25:24.322Z"
+    },
+    {
+        "company": {
+            "id": 33,
+            "name": "Bit Digital, Inc.",
+            "ticker": "BTBT",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.bit-digital.com",
+            "sector": "FINANCE",
+            "marketCap": 925727000,
+            "description": "Bit Digital, Inc. is in the bitcoin mining business. The company is headquartered in New York, New York.",
+            "headquarters": "136-20 38TH AVE., SUITE 9A-2, FLUSHING, NY, US",
+            "updatedAt": "2025-08-25T16:54:32.950Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 43323761.925000004
+            },
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 62230411.68681641
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 417.6,
+                "usdValue": 43323761.925000004,
+                "lastUpdated": "2025-05-15T00:00:00"
+            },
+            {
+                "currency": "ETH",
+                "amount": 24434.2,
+                "usdValue": 62230411.68681641,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 105554173.61181642,
+        "lastUpdated": "2025-08-25T16:54:32.950Z"
+    },
+    {
+        "company": {
+            "id": 27,
+            "name": "Osprey Bitcoin Trust",
+            "ticker": "OBTC",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://ospreyfunds.io/obtc/",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T04:31:06.027Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Fri Nov 03 2023",
+                "usdValue": 95814326.20605469
+            },
+            {
+                "date": "Tue Aug 01 2023",
+                "usdValue": 82044497.42675781
+            },
+            {
+                "date": "Tue May 09 2023",
+                "usdValue": 77076432.79330078
+            },
+            {
+                "date": "Wed Nov 09 2022",
+                "usdValue": 44556546.40538086
+            },
+            {
+                "date": "Thu Aug 11 2022",
+                "usdValue": 67466079.52705078
+            },
+            {
+                "date": "Fri May 13 2022",
+                "usdValue": 82695191.49708983
+            },
+            {
+                "date": "Mon Nov 15 2021",
+                "usdValue": 180175124.1339844
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 2758.65,
+                "usdValue": 95814326.20605469,
+                "lastUpdated": "2023-11-03T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 95814326.20605469,
+        "lastUpdated": "2025-08-28T04:31:06.027Z"
+    },
+    {
+        "company": {
+            "id": 30,
+            "name": "Core Scientific",
+            "ticker": "CORZ",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.corescientific.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 5360796000,
+            "description": "Core Scientific, Inc. provides blockchain and artificial intelligence (AI) infrastructure services in the United States. The company is headquartered in Austin, Texas.",
+            "headquarters": "321 NORTH CLARK STREET, SUITE 2440, CHICAGO, IL, US",
+            "updatedAt": "2025-07-08T19:18:57.382Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed May 07 2025",
+                "usdValue": 94800576.9453125
+            },
+            {
+                "date": "Mon Nov 06 2023",
+                "usdValue": 1525877.5111328124
+            },
+            {
+                "date": "Fri Aug 04 2023",
+                "usdValue": 1266176.6977539062
+            },
+            {
+                "date": "Mon May 15 2023",
+                "usdValue": 1184241.795800781
+            },
+            {
+                "date": "Tue Nov 22 2022",
+                "usdValue": 317627088.43359375
+            },
+            {
+                "date": "Tue Nov 22 2022",
+                "usdValue": 24973.816162109375
+            },
+            {
+                "date": "Mon Aug 22 2022",
+                "usdValue": 805583298.2148438
+            },
+            {
+                "date": "Mon Aug 22 2022",
+                "usdValue": 1947007.03125
+            },
+            {
+                "date": "Fri May 13 2022",
+                "usdValue": 6474
+            },
+            {
+                "date": "Fri May 13 2022",
+                "usdValue": 307172
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 977,
+                "usdValue": 94800576.9453125,
+                "lastUpdated": "2025-05-07T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 94800576.9453125,
+        "lastUpdated": "2025-07-08T19:18:57.382Z"
+    },
+    {
+        "company": {
+            "id": 32,
+            "name": "KULR Technology Group",
+            "ticker": "KULR",
+            "exchange": "NYSE MKT",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.kulrtechnology.com",
+            "sector": "REAL ESTATE & CONSTRUCTION",
+            "marketCap": 259377000,
+            "description": "KULR Technology Group, Inc., through its subsidiary, KULR Technology Corporation, develops and markets thermal management technologies for batteries, electronics, and other component applications in the United States. The company is headquartered in Campbell, California.",
+            "headquarters": "14440 BIG BASIN WAY #12, SARATOGA, CA, US",
+            "updatedAt": "2025-07-08T20:46:08.758Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 73554950.203125
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 709,
+                "usdValue": 73554950.203125,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 73554950.203125,
+        "lastUpdated": "2025-07-08T20:46:08.758Z"
+    },
+    {
+        "company": {
+            "id": 34,
+            "name": "Alliance Resource Partners, L.P.",
+            "ticker": "ARLP",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.arlp.com",
+            "sector": "ENERGY & TRANSPORTATION",
+            "marketCap": 3468840000,
+            "description": "Alliance Resource Partners, LP, a diversified natural resources company, produces and markets coal primarily for industrial and utility users in the United States. The company is headquartered in Tulsa, Oklahoma.",
+            "headquarters": "1717 SOUTH BOULDER AVENUE, TULSA, OK, US",
+            "updatedAt": "2025-07-21T04:18:53.401Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Fri May 09 2025",
+                "usdValue": 49620623.659453124
+            },
+            {
+                "date": "Thu Nov 07 2024",
+                "usdValue": 34706737.900625
+            },
+            {
+                "date": "Wed Aug 07 2024",
+                "usdValue": 24875163.716796875
+            },
+            {
+                "date": "Thu May 09 2024",
+                "usdValue": 26802538.39453125
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 481.89,
+                "usdValue": 49620623.659453124,
+                "lastUpdated": "2025-05-09T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 49620623.659453124,
+        "lastUpdated": "2025-07-21T04:18:53.401Z"
+    },
+    {
+        "company": {
+            "id": 57,
+            "name": "BTCS Inc.",
+            "ticker": "BTCS",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.btcs.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 59067000,
+            "description": "BTCS Inc. focuses on blockchain technologies and digital currency ecosystems. The company is headquartered in Silver Spring, Maryland.",
+            "headquarters": "1901 N MOORE ST, SUITE 700, ARLINGTON, VA, US",
+            "updatedAt": "2025-07-09T10:12:14.328Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 23082164.389160156
+            },
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 1209266.5106964111
+            },
+            {
+                "date": "Wed Nov 13 2024",
+                "usdValue": 1492520.073852539
+            },
+            {
+                "date": "Wed Nov 13 2024",
+                "usdValue": 25470530.467285156
+            },
+            {
+                "date": "Mon Aug 19 2024",
+                "usdValue": 20927026.256103516
+            },
+            {
+                "date": "Mon Aug 19 2024",
+                "usdValue": 987166.4888305664
+            },
+            {
+                "date": "Tue May 14 2024",
+                "usdValue": 22668950.821289062
+            },
+            {
+                "date": "Tue May 14 2024",
+                "usdValue": 1131130.0698242188
+            },
+            {
+                "date": "Thu Nov 09 2023",
+                "usdValue": 16430106.900390625
+            },
+            {
+                "date": "Thu Nov 09 2023",
+                "usdValue": 352288.3069152832
+            },
+            {
+                "date": "Fri Aug 11 2023",
+                "usdValue": 14468525.344116211
+            },
+            {
+                "date": "Fri Aug 11 2023",
+                "usdValue": 187345.98327445984
+            },
+            {
+                "date": "Fri May 12 2023",
+                "usdValue": 15411560.565429688
+            },
+            {
+                "date": "Fri May 12 2023",
+                "usdValue": 156692.07740592957
+            },
+            {
+                "date": "Thu Nov 10 2022",
+                "usdValue": 10889513.344726562
+            },
+            {
+                "date": "Thu Nov 10 2022",
+                "usdValue": 127978.03058624268
+            },
+            {
+                "date": "Thu Aug 11 2022",
+                "usdValue": 15582179.395019531
+            },
+            {
+                "date": "Thu Aug 11 2022",
+                "usdValue": 305576.28479003906
+            },
+            {
+                "date": "Fri May 13 2022",
+                "usdValue": 2635479.31640625
+            },
+            {
+                "date": "Fri May 13 2022",
+                "usdValue": 16510171.672851562
+            },
+            {
+                "date": "Fri May 13 2022",
+                "usdValue": 342244.3841705322
+            },
+            {
+                "date": "Tue Nov 09 2021",
+                "usdValue": 1145232.8826904297
+            },
+            {
+                "date": "Tue Nov 09 2021",
+                "usdValue": 6027464.53125
+            },
+            {
+                "date": "Tue Nov 09 2021",
+                "usdValue": 37844564.25800781
+            },
+            {
+                "date": "Fri Aug 06 2021",
+                "usdValue": 3853485
+            },
+            {
+                "date": "Fri Aug 06 2021",
+                "usdValue": 22776572.886767577
+            },
+            {
+                "date": "Thu May 13 2021",
+                "usdValue": 4474457.2265625
+            },
+            {
+                "date": "Thu May 13 2021",
+                "usdValue": 28727385.29296875
+            },
+            {
+                "date": "Wed Nov 04 2020",
+                "usdValue": 899610.4525390625
+            },
+            {
+                "date": "Wed Nov 04 2020",
+                "usdValue": 1027360.2058740234
+            },
+            {
+                "date": "Wed Aug 05 2020",
+                "usdValue": 637628.3791796875
+            },
+            {
+                "date": "Wed Aug 05 2020",
+                "usdValue": 925497.6100341796
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "ETH",
+                "amount": 9063,
+                "usdValue": 23082164.389160156,
+                "lastUpdated": "2025-05-15T00:00:00"
+            },
+            {
+                "currency": "SOL",
+                "amount": 7155,
+                "usdValue": 1209266.5106964111,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 24291430.899856567,
+        "lastUpdated": "2025-07-09T10:12:14.328Z"
+    },
+    {
+        "company": {
+            "id": 58,
+            "name": "Phunware Inc",
+            "ticker": "PHUN",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.phunware.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 65756000,
+            "description": "Phunware, Inc. provides an integrated software platform that equips companies with the products, solutions and services to engage, manage and monetize their mobile application portfolios globally. The company is headquartered in Austin, Texas.",
+            "headquarters": "1002 WEST AVENUE, SUITE 230-S, AUSTIN, TX, UNITED STATES",
+            "updatedAt": "2025-07-08T21:17:15.930Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Mon May 16 2022",
+                "usdValue": 19231719.171875
+            },
+            {
+                "date": "Mon May 16 2022",
+                "usdValue": 2603248.300415039
+            },
+            {
+                "date": "Fri Nov 12 2021",
+                "usdValue": 87
+            },
+            {
+                "date": "Fri Nov 12 2021",
+                "usdValue": 1497
+            },
+            {
+                "date": "Fri Aug 13 2021",
+                "usdValue": 1497
+            },
+            {
+                "date": "Fri Aug 13 2021",
+                "usdValue": 69
+            },
+            {
+                "date": "Fri May 14 2021",
+                "usdValue": 1098
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 644,
+                "usdValue": 19231719.171875,
+                "lastUpdated": "2022-05-16T00:00:00"
+            },
+            {
+                "currency": "ETH",
+                "amount": 1287,
+                "usdValue": 2603248.300415039,
+                "lastUpdated": "2022-05-16T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 21834967.47229004,
+        "lastUpdated": "2025-07-08T21:17:15.930Z"
+    },
+    {
+        "company": {
+            "id": 36,
+            "name": "LM Funding America",
+            "ticker": "LMFA",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.lmfunding.com",
+            "sector": "FINANCE",
+            "marketCap": 12063500,
+            "description": "LM Funding America, Inc., through its subsidiary, LM Funding, LLC, is a specialized finance company. The company is headquartered in Tampa, Florida.",
+            "headquarters": "302 KNIGHTS RUN AVENUE, SUITE 1000, TAMPA, FL, US",
+            "updatedAt": "2025-07-09T04:07:37.130Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 16619891.428125
+            },
+            {
+                "date": "Wed Nov 13 2024",
+                "usdValue": 12890126.54609375
+            },
+            {
+                "date": "Tue Aug 13 2024",
+                "usdValue": 9721774.4515625
+            },
+            {
+                "date": "Wed May 15 2024",
+                "usdValue": 10828108.223437501
+            },
+            {
+                "date": "Tue Nov 14 2023",
+                "usdValue": 3201941.4203124996
+            },
+            {
+                "date": "Mon Aug 14 2023",
+                "usdValue": 2326207.8697265624
+            },
+            {
+                "date": "Mon May 15 2023",
+                "usdValue": 2273309.1648437497
+            },
+            {
+                "date": "Thu Nov 17 2022",
+                "usdValue": 616257
+            },
+            {
+                "date": "Wed Aug 17 2022",
+                "usdValue": 501723.9580078125
+            },
+            {
+                "date": "Mon Nov 15 2021",
+                "usdValue": 511000
+            },
+            {
+                "date": "Mon Nov 15 2021",
+                "usdValue": 1400000
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 160.2,
+                "usdValue": 16619891.428125,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 16619891.428125,
+        "lastUpdated": "2025-07-09T04:07:37.130Z"
+    },
+    {
+        "company": {
+            "id": 31,
+            "name": "Cipher Mining",
+            "ticker": "CIFR",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.ciphermining.com",
+            "sector": "REAL ESTATE & CONSTRUCTION",
+            "marketCap": 2323793000,
+            "description": "Cipher Mining Inc. is a bitcoin mining company. The company is headquartered in Houston, Texas.",
+            "headquarters": "4265 SAN FELIPE, SUITE 603, HOUSTON, TX, US",
+            "updatedAt": "2025-07-11T05:53:27.892Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Tue May 06 2025",
+                "usdValue": 12410077.495312499
+            },
+            {
+                "date": "Thu Oct 31 2024",
+                "usdValue": 105884502.75
+            },
+            {
+                "date": "Tue Aug 13 2024",
+                "usdValue": 133522874.79296875
+            },
+            {
+                "date": "Tue May 07 2024",
+                "usdValue": 107839232.3828125
+            },
+            {
+                "date": "Wed Nov 08 2023",
+                "usdValue": 19182539.2109375
+            },
+            {
+                "date": "Tue Aug 08 2023",
+                "usdValue": 12025258.84375
+            },
+            {
+                "date": "Tue May 09 2023",
+                "usdValue": 11506050.5625
+            },
+            {
+                "date": "Mon Nov 14 2022",
+                "usdValue": 2400000
+            },
+            {
+                "date": "Tue Aug 09 2022",
+                "usdValue": 787000
+            },
+            {
+                "date": "Tue May 10 2022",
+                "usdValue": 191000
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 128.2,
+                "usdValue": 12410077.495312499,
+                "lastUpdated": "2025-05-06T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 12410077.495312499,
+        "lastUpdated": "2025-07-11T05:53:27.892Z"
+    },
+    {
+        "company": {
+            "id": 41,
+            "name": "Bitcoin Depot",
+            "ticker": "BTM",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.bitcoindepot.com",
+            "sector": "FINANCE",
+            "marketCap": 137792000,
+            "description": "Bitcoin Depot Inc. owns and operates a network of cryptocurrency kiosks in North America. The company is headquartered in Atlanta, Georgia.",
+            "headquarters": "4 VILLAGE ROW, NEW HOPE, PA, US",
+            "updatedAt": "2025-07-08T18:04:15.464Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 10538380.5946875
+            },
+            {
+                "date": "Thu Nov 14 2024",
+                "usdValue": 114298062.890625
+            },
+            {
+                "date": "Thu Nov 14 2024",
+                "usdValue": 3058.94873046875
+            },
+            {
+                "date": "Thu Aug 15 2024",
+                "usdValue": 34478498.49609375
+            },
+            {
+                "date": "Wed May 15 2024",
+                "usdValue": 29157696.5625
+            },
+            {
+                "date": "Wed May 15 2024",
+                "usdValue": 3037.056640625
+            },
+            {
+                "date": "Tue Nov 14 2023",
+                "usdValue": 28216886656.25
+            },
+            {
+                "date": "Tue Nov 14 2023",
+                "usdValue": 1979052.6123046875
+            },
+            {
+                "date": "Fri Aug 18 2023",
+                "usdValue": 21100140878.90625
+            },
+            {
+                "date": "Fri Aug 18 2023",
+                "usdValue": 1660945.068359375
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 101.58,
+                "usdValue": 10538380.5946875,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 10538380.5946875,
+        "lastUpdated": "2025-07-08T18:04:15.464Z"
+    },
+    {
+        "company": {
+            "id": 71,
+            "name": "London BTC Company Limited",
+            "ticker": "BTC",
+            "exchange": "",
+            "country": "GBR",
+            "countryCode": "GB",
+            "website": "https://ldnbtc.com/",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-07-10T10:37:12.880Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Fri Jun 27 2025",
+                "usdValue": 6963960.582578125
+            },
+            {
+                "date": "Wed Jun 25 2025",
+                "usdValue": 37257400
+            },
+            {
+                "date": "Tue Jun 24 2025",
+                "usdValue": 6222757.7334375
+            },
+            {
+                "date": "Mon May 19 2025",
+                "usdValue": 1784744.4367187498
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 65.03,
+                "usdValue": 6963960.582578125,
+                "lastUpdated": "2025-06-27T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 6963960.582578125,
+        "lastUpdated": "2025-07-10T10:37:12.880Z"
+    },
+    {
+        "company": {
+            "id": 9,
+            "name": "Grayscale Bitcoin Mini Trust",
+            "ticker": "BTC",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://grayscale.com/products/bitcoin-mini-trust/",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T13:07:28.999Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Fri May 02 2025",
+                "usdValue": 3876402.8125
+            },
+            {
+                "date": "Fri Nov 01 2024",
+                "usdValue": 2345197491.732451
+            },
+            {
+                "date": "Fri Aug 30 2024",
+                "usdValue": 1592432615.8080423
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 40,
+                "usdValue": 3876402.8125,
+                "lastUpdated": "2025-05-02T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 3876402.8125,
+        "lastUpdated": "2025-08-28T13:07:28.999Z"
+    },
+    {
+        "company": {
+            "id": 43,
+            "name": "Sphere 3D",
+            "ticker": "ANY",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.sphere3d.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 17785400,
+            "description": "Sphere 3D Corp. The company is headquartered in Toronto, Canada.",
+            "headquarters": "895 DON MILLS ROAD, BLDG. 2, SUITE 900, TORONTO, ON, CA",
+            "updatedAt": "2025-07-12T04:46:01.610Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed May 14 2025",
+                "usdValue": 2350344.69921875
+            },
+            {
+                "date": "Thu Nov 14 2024",
+                "usdValue": 113425.55859375
+            },
+            {
+                "date": "Tue Aug 13 2024",
+                "usdValue": 436388.878125
+            },
+            {
+                "date": "Mon May 13 2024",
+                "usdValue": 113222.60859375
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 22.7,
+                "usdValue": 2350344.69921875,
+                "lastUpdated": "2025-05-14T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 2350344.69921875,
+        "lastUpdated": "2025-07-12T04:46:01.610Z"
+    },
+    {
+        "company": {
+            "id": 45,
+            "name": "Investview, Inc.",
+            "ticker": "INVU",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.investview.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T11:44:02.387Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed May 14 2025",
+                "usdValue": 2101850.10546875
+            },
+            {
+                "date": "Wed Nov 13 2024",
+                "usdValue": 9913
+            },
+            {
+                "date": "Tue Aug 13 2024",
+                "usdValue": 9913
+            },
+            {
+                "date": "Mon Nov 13 2023",
+                "usdValue": 9913
+            },
+            {
+                "date": "Mon Aug 14 2023",
+                "usdValue": 9913
+            },
+            {
+                "date": "Mon Nov 14 2022",
+                "usdValue": 39950
+            },
+            {
+                "date": "Mon Aug 15 2022",
+                "usdValue": 39950
+            },
+            {
+                "date": "Mon May 23 2022",
+                "usdValue": 9800
+            },
+            {
+                "date": "Mon Nov 22 2021",
+                "usdValue": 30150
+            },
+            {
+                "date": "Fri Aug 13 2021",
+                "usdValue": 30150
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 20.3,
+                "usdValue": 2101850.10546875,
+                "lastUpdated": "2025-05-14T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 2101850.10546875,
+        "lastUpdated": "2025-08-28T11:44:02.387Z"
+    },
+    {
+        "company": {
+            "id": 46,
+            "name": "Thumzup",
+            "ticker": "TZUP",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.thumzupmedia.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T15:15:55.098Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 15 2025",
+                "usdValue": 1982145.10378125
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 19.106,
+                "usdValue": 1982145.10378125,
+                "lastUpdated": "2025-05-15T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1982145.10378125,
+        "lastUpdated": "2025-08-28T15:15:55.098Z"
+    },
+    {
+        "company": {
+            "id": 48,
+            "name": "Athena Bitcoin Global",
+            "ticker": "ABIT",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.athenabitcoin.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-07-01T13:16:24.043Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Mon Jun 02 2025",
+                "usdValue": 1799986.03125
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 17,
+                "usdValue": 1799986.03125,
+                "lastUpdated": "2025-06-02T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1799986.03125,
+        "lastUpdated": "2025-07-01T13:16:24.043Z"
+    },
+    {
+        "company": {
+            "id": 50,
+            "name": "TeraWulf",
+            "ticker": "WULF",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.terawulf.com",
+            "sector": "FINANCE",
+            "marketCap": 1877795000,
+            "description": "Terawulf Inc. is a bitcoin mining company. The company is headquartered in Easton, Maryland.",
+            "headquarters": "9 FEDERAL STREET, EASTON, MD, UNITED STATES",
+            "updatedAt": "2025-07-09T11:05:10.189Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Fri May 09 2025",
+                "usdValue": 1750504.4765625
+            },
+            {
+                "date": "Tue Nov 12 2024",
+                "usdValue": 439779.0625
+            },
+            {
+                "date": "Tue Aug 13 2024",
+                "usdValue": 909143.49609375
+            },
+            {
+                "date": "Mon May 13 2024",
+                "usdValue": 1761240.578125
+            },
+            {
+                "date": "Mon Nov 13 2023",
+                "usdValue": 22412446.2578125
+            },
+            {
+                "date": "Mon Aug 14 2023",
+                "usdValue": 708000
+            },
+            {
+                "date": "Mon May 15 2023",
+                "usdValue": 117000
+            },
+            {
+                "date": "Mon Aug 15 2022",
+                "usdValue": 651000
+            },
+            {
+                "date": "Mon May 16 2022",
+                "usdValue": 212000
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 17,
+                "usdValue": 1750504.4765625,
+                "lastUpdated": "2025-05-09T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1750504.4765625,
+        "lastUpdated": "2025-07-09T11:05:10.189Z"
+    },
+    {
+        "company": {
+            "id": 51,
+            "name": "OneMedNet Corp.",
+            "ticker": "ONMD",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.onemednet.com",
+            "sector": "TRADE & SERVICES",
+            "marketCap": 25918700,
+            "description": "OneMedNet Corporation develops technology that focuses on accessing and sharing health data. The company is headquartered in Eden Prairie, Minnesota with a development office in Vancouver, Canada.",
+            "headquarters": "6385 OLD SHADY OAK ROAD, SUITE 250, EDEN PRAIRIE, MN, UNITED KINGDOM",
+            "updatedAt": "2025-07-22T04:58:55.742Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Wed May 14 2025",
+                "usdValue": 1035394.140625
+            },
+            {
+                "date": "Tue Dec 17 2024",
+                "usdValue": 3608780.453125
+            },
+            {
+                "date": "Wed Dec 11 2024",
+                "usdValue": 400000
+            },
+            {
+                "date": "Thu Dec 05 2024",
+                "usdValue": 400000
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 10,
+                "usdValue": 1035394.140625,
+                "lastUpdated": "2025-05-14T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 1035394.140625,
+        "lastUpdated": "2025-07-22T04:58:55.742Z"
+    },
+    {
+        "company": {
+            "id": 68,
+            "name": "Cel AI",
+            "ticker": "CLAI",
+            "exchange": "",
+            "country": "GBR",
+            "countryCode": "GB",
+            "website": "https://www.getcel.ai/",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-07-09T12:27:34.381Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Tue Jul 08 2025",
+                "usdValue": 947867.3789062499
+            },
+            {
+                "date": "Fri Jul 04 2025",
+                "usdValue": 667595.6617257539
+            },
+            {
+                "date": "Fri Jun 27 2025",
+                "usdValue": 5252700
+            },
+            {
+                "date": "Fri May 30 2025",
+                "usdValue": 532291.6593322754
+            },
+            {
+                "date": "Mon Dec 30 2024",
+                "usdValue": 812442.2781677246
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 8.7,
+                "usdValue": 947867.3789062499,
+                "lastUpdated": "2025-07-08T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 947867.3789062499,
+        "lastUpdated": "2025-07-09T12:27:34.381Z"
+    },
+    {
+        "company": {
+            "id": 52,
+            "name": "Where Food Comes From, INC",
+            "ticker": "WFCF",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.wherefoodcomesfrom.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 56919000,
+            "description": "Where Food Comes From, Inc. provides verification and certification solutions for the agricultural, livestock, and food industries in the United States. The company is headquartered in Castle Rock, Colorado.",
+            "headquarters": "202 6TH STREET, SUITE 400, CASTLE ROCK, CO, US",
+            "updatedAt": "2025-07-16T04:31:36.003Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Thu May 08 2025",
+                "usdValue": 722690.2265625
+            },
+            {
+                "date": "Mon Nov 14 2022",
+                "usdValue": 178000
+            },
+            {
+                "date": "Thu Aug 11 2022",
+                "usdValue": 1322504.4000000001
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 7,
+                "usdValue": 722690.2265625,
+                "lastUpdated": "2025-05-08T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 722690.2265625,
+        "lastUpdated": "2025-07-16T04:31:36.003Z"
+    },
+    {
+        "company": {
+            "id": 37,
+            "name": "BitMine",
+            "ticker": "BMNR",
+            "exchange": "AMEX",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://bitminingresources.com",
+            "sector": "REAL ESTATE & CONSTRUCTION",
+            "marketCap": 2117100000,
+            "description": "Bitmine Immersion Technologies, Inc. is a blockchain technology company primarily in the United States. The company is headquartered in Las Vegas, Nevada.",
+            "headquarters": "2030 POWERS FERRY ROAD SE, SUITE #212, ATLANTA, GA, US",
+            "updatedAt": "2025-07-16T04:24:17.925Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Mon Apr 14 2025",
+                "usdValue": 248554.62843749998
+            },
+            {
+                "date": "Fri Jan 10 2025",
+                "usdValue": 145840.2378125
+            },
+            {
+                "date": "Mon Jul 15 2024",
+                "usdValue": 162175.380859375
+            },
+            {
+                "date": "Mon Apr 15 2024",
+                "usdValue": 12685.2421875
+            },
+            {
+                "date": "Fri Jan 12 2024",
+                "usdValue": 282830.90859375
+            },
+            {
+                "date": "Fri Jul 14 2023",
+                "usdValue": 61000
+            },
+            {
+                "date": "Thu Apr 13 2023",
+                "usdValue": 21561
+            },
+            {
+                "date": "Thu Jan 05 2023",
+                "usdValue": 21115
+            },
+            {
+                "date": "Thu Jul 14 2022",
+                "usdValue": 3775
+            },
+            {
+                "date": "Mon Apr 18 2022",
+                "usdValue": 4574
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "BTC",
+                "amount": 2.94,
+                "usdValue": 248554.62843749998,
+                "lastUpdated": "2025-04-14T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 248554.62843749998,
+        "lastUpdated": "2025-07-16T04:24:17.925Z"
+    },
+    {
+        "company": {
+            "id": 72,
+            "name": "Tiger Alpha",
+            "ticker": "TIR",
+            "exchange": "",
+            "country": "GBR",
+            "countryCode": "GB",
+            "website": "https://tigeralpha.ai",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-15T21:49:36.074Z"
+        },
+        "trendPoints": [
+            {
+                "date": "Mon Jun 30 2025",
+                "usdValue": 6941.59309387207
+            }
+        ],
+        "currentHoldings": [
+            {
+                "currency": "TAO",
+                "amount": 20.75,
+                "usdValue": 6941.59309387207,
+                "lastUpdated": "2025-06-30T00:00:00"
+            }
+        ],
+        "currentTotalUsd": 6941.59309387207,
+        "lastUpdated": "2025-08-15T21:49:36.074Z"
+    },
+    {
+        "company": {
+            "id": 66,
+            "name": "Alphabet Inc Class A",
+            "ticker": "GOOGL",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://abc.xyz",
+            "sector": "TECHNOLOGY",
+            "marketCap": 2184116568000,
+            "description": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world's fourth-largest technology company by revenue and one of the world's most valuable companies.",
+            "headquarters": "1600 AMPHITHEATRE PARKWAY, MOUNTAIN VIEW, CA, US",
+            "updatedAt": "2025-07-08T15:35:30.374Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-08T15:35:30.374Z"
+    },
+    {
+        "company": {
+            "id": 69,
+            "name": "Amazon.com Inc",
+            "ticker": "AMZN",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.amazon.com",
+            "sector": "TRADE & SERVICES",
+            "marketCap": 2372444094000,
+            "description": "Amazon.com, Inc. is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook. The company has been referred to as one of the most influential economic and cultural forces in the world, as well as the world's most valuable brand.",
+            "headquarters": "410 TERRY AVENUE NORTH, SEATTLE, WA, US",
+            "updatedAt": "2025-07-10T04:38:01.798Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-10T04:38:01.798Z"
+    },
+    {
+        "company": {
+            "id": 76,
+            "name": "Amir John",
+            "ticker": "123",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://1",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-27T00:33:24.622Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-08-27T00:33:24.622Z"
+    },
+    {
+        "company": {
+            "id": 6,
+            "name": "Apple Inc",
+            "ticker": "AAPL",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.apple.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 3189539340000,
+            "description": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world's largest technology company by revenue (totalling $274.5 billion in 2020) and, since January 2021, the world's most valuable company. As of 2021, Apple is the world's fourth-largest PC vendor by unit sales, and fourth-largest smartphone manufacturer. It is one of the Big Five American information technology companies, along with Amazon, Google, Microsoft, and Facebook.",
+            "headquarters": "ONE INFINITE LOOP, CUPERTINO, CA, US",
+            "updatedAt": "2025-07-08T14:53:29.107Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-08T14:53:29.107Z"
+    },
+    {
+        "company": {
+            "id": 55,
+            "name": "Argo Blockchain PLC",
+            "ticker": "ARBK",
+            "exchange": "NASDAQ",
+            "country": "GBR",
+            "countryCode": "GB",
+            "website": "https://www.argoblockchain.com",
+            "sector": "FINANCE",
+            "marketCap": 28595000,
+            "description": "",
+            "headquarters": "EASTCASTLE HOUSE, 27/28 EASTCASTLE STREET, LONDON, GB",
+            "updatedAt": "2025-07-19T04:41:23.308Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-19T04:41:23.308Z"
+    },
+    {
+        "company": {
+            "id": 56,
+            "name": "ATIF Holdings Ltd",
+            "ticker": "ZBAI",
+            "exchange": "NASDAQ",
+            "country": "China",
+            "countryCode": "CN",
+            "website": "https://www.atifchina.com",
+            "sector": "TRADE & SERVICES",
+            "marketCap": 18616300,
+            "description": "",
+            "headquarters": "ROOM 3803, DACHONG INTERNATIONAL CENTRE, 39 TONGGU ROAD, NANSHAN DISTRICT, SHENZHEN, CHINA",
+            "updatedAt": "2025-07-11T04:08:15.231Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-11T04:08:15.231Z"
+    },
+    {
+        "company": {
+            "id": 47,
+            "name": "BIT Mining Limited",
+            "ticker": "BTCM",
+            "exchange": "NYSE",
+            "country": "China",
+            "countryCode": "CN",
+            "website": "https://www.btcm.group",
+            "sector": "TECHNOLOGY",
+            "marketCap": 63178000,
+            "description": "BIT Mining Limited is a cryptocurrency mining company. The company is headquartered in Shenzhen, the People's Republic of China.",
+            "headquarters": "UNITS 813&815, LEVEL 8, CORE F, CYBERPORT 3, 100 CYBERPORT ROAD, HONGKONG, CHINA",
+            "updatedAt": "2025-07-14T04:30:35.184Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-14T04:30:35.184Z"
+    },
+    {
+        "company": {
+            "id": 53,
+            "name": "BlackRock, Inc.",
+            "ticker": "BLK",
+            "exchange": "NYSE",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.blackrock.com",
+            "sector": "FINANCE",
+            "marketCap": 173459603000,
+            "description": "BlackRock, Inc. is an American multinational investment management corporation based in New York City.",
+            "headquarters": "50 HUDSON YARDS, NEW YORK, NY, UNITED STATES",
+            "updatedAt": "2025-08-07T15:10:57.856Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-08-07T15:10:57.856Z"
+    },
+    {
+        "company": {
+            "id": 18,
+            "name": "Block, Inc.",
+            "ticker": "SQ",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.block.xyz",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-07-01T13:14:46.578Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-01T13:14:46.578Z"
+    },
+    {
+        "company": {
+            "id": 29,
+            "name": "Canaan Inc.",
+            "ticker": "CAN",
+            "exchange": "NASDAQ",
+            "country": "China",
+            "countryCode": "CN",
+            "website": "https://www.canaan-creative.com",
+            "sector": "MANUFACTURING",
+            "marketCap": 399455000,
+            "description": "Canaan Inc. is engaged in the research, design and sale of IC end system products by integrating bitcoin mining IC products and related components mainly in the People's Republic of China. The company is headquartered in Hangzhou, the People's Republic of China.",
+            "headquarters": "ROOM 2101, 21ST FLOOR,BUILDING 1,YARD 1, NO. 81 BEIQING ROAD,, HAIDIAN DISTRICT, BEIJING,, CHINA",
+            "updatedAt": "2025-07-17T05:38:27.754Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-17T05:38:27.754Z"
+    },
+    {
+        "company": {
+            "id": 54,
+            "name": "Coin Citadel",
+            "ticker": "CCTL",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://coincitadel.net",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-07-01T13:16:35.125Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-01T13:16:35.125Z"
+    },
+    {
+        "company": {
+            "id": 73,
+            "name": "Consillium",
+            "ticker": "COIN",
+            "exchange": "",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "website": "https://www.consillium.se",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-16T16:47:57.684Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-08-16T16:47:57.684Z"
+    },
+    {
+        "company": {
+            "id": 38,
+            "name": "DDC Enterprise Limited",
+            "ticker": "DDC",
+            "exchange": "NYSE",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.daydaycook.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 81529000,
+            "description": "Dominion Diamond Corporation is dedicated to the mining and trading of rough diamonds. The company is headquartered in Yellowknife, Canada.",
+            "headquarters": "DDC Enterprise Limited, 368 9th Ave, New York, NY 10001",
+            "updatedAt": "2025-07-09T12:35:26.725Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-09T12:35:26.725Z"
+    },
+    {
+        "company": {
+            "id": 42,
+            "name": "FRMO Corp.",
+            "ticker": "FRMO",
+            "exchange": "",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.frmocorp.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T07:21:01.455Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-08-28T07:21:01.455Z"
+    },
+    {
+        "company": {
+            "id": 23,
+            "name": "GameStop Corp.",
+            "ticker": "GME",
+            "exchange": "NYSE",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.gamestop.com",
+            "sector": "TRADE & SERVICES",
+            "marketCap": 10176894000,
+            "description": "GameStop Corp. The company is headquartered in Grapevine, Texas.",
+            "headquarters": "625 WESTPORT PARKWAY, GRAPEVINE, TX, US",
+            "updatedAt": "2025-07-10T00:12:03.149Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-10T00:12:03.149Z"
+    },
+    {
+        "company": {
+            "id": 49,
+            "name": "Globant S.A.",
+            "ticker": "GLOB",
+            "exchange": "NYSE",
+            "country": "Luxembourg",
+            "countryCode": "LU",
+            "website": "https://www.globant.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 3753816000,
+            "description": "Globant SA is a global technology services company. The company is headquartered in Luxembourg, Luxembourg.",
+            "headquarters": "37A AVENUE J.F. KENNEDY, N/A, LU",
+            "updatedAt": "2025-07-14T05:12:15.880Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-14T05:12:15.880Z"
+    },
+    {
+        "company": {
+            "id": 40,
+            "name": "Hashdex",
+            "ticker": "DEFI",
+            "exchange": "",
+            "country": "Brazil",
+            "countryCode": "BR",
+            "website": "https://www.hashdex.com",
+            "sector": "OTHER",
+            "marketCap": 0,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-28T07:46:19.090Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-08-28T07:46:19.090Z"
+    },
+    {
+        "company": {
+            "id": 67,
+            "name": "JPMorgan Chase & Co",
+            "ticker": "JPM",
+            "exchange": "NYSE",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.jpmorganchase.com",
+            "sector": "FINANCE",
+            "marketCap": 822610887000,
+            "description": "JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City. JPMorgan Chase is incorporated in Delaware. As a Bulge Bracket bank, it is a major provider of various investment banking and financial services. It is one of America's Big Four banks, along with Bank of America, Citigroup, and Wells Fargo. JPMorgan Chase is considered to be a universal bank and a custodian bank. The J.P. Morgan brand is used by the investment banking, asset management, private banking, private wealth management, and treasury services divisions.",
+            "headquarters": "383 MADISON AVENUE, NEW YORK, NY, US",
+            "updatedAt": "2025-07-08T18:17:07.286Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-08T18:17:07.286Z"
+    },
+    {
+        "company": {
+            "id": 44,
+            "name": "KindlyMD, Inc.",
+            "ticker": "NAKA",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.kindlymd.com",
+            "sector": "LIFE SCIENCES",
+            "marketCap": null,
+            "description": "Kindly MD, Inc., a healthcare and healthcare data company, provides direct health care services to patients integrating prescription medicine and behavioral health services. The company is headquartered in Salt Lake City, Utah.",
+            "headquarters": "5097 SOUTH 900 EAST SUITE 100, SUITE 100, SALT LAKE CITY, UT, UNITED STATES",
+            "updatedAt": "2025-07-12T04:42:55.534Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-12T04:42:55.534Z"
+    },
+    {
+        "company": {
+            "id": 63,
+            "name": "Meta Platforms Inc.",
+            "ticker": "META",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.meta.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 1807828255000,
+            "description": "Meta Platforms, Inc. develops products that enable people to connect and share with friends and family through mobile devices, PCs, virtual reality headsets, wearables and home devices around the world. The company is headquartered in Menlo Park, California.",
+            "headquarters": "1601 WILLOW ROAD, MENLO PARK, CA, US",
+            "updatedAt": "2025-07-08T15:34:19.767Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-08T15:34:19.767Z"
+    },
+    {
+        "company": {
+            "id": 5,
+            "name": "Microsoft Corporation",
+            "ticker": "MSFT",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.microsoft.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 3697019716000,
+            "description": "Microsoft Corporation is an American multinational technology company which produces computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2016. It is considered one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Amazon, and Facebook.",
+            "headquarters": "ONE MICROSOFT WAY, REDMOND, WA, US",
+            "updatedAt": "2025-07-01T12:45:43.165Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-01T12:45:43.165Z"
+    },
+    {
+        "company": {
+            "id": 75,
+            "name": "NextEra Energy",
+            "ticker": "NEE",
+            "exchange": "NYSE",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://nexteraenergy.com",
+            "sector": "ENERGY & TRANSPORTATION",
+            "marketCap": 155105722000,
+            "description": "NextEra Energy, Inc. is an American energy company with about 46 gigawatts of generating capacity, revenues of over $17 billion in 2017, and about 14,000 employees throughout the US and Canada. Its subsidiaries include Florida Power & Light (FPL), NextEra Energy Resources, NextEra Energy Partners, Gulf Power Company, and NextEra Energy Services.",
+            "headquarters": "700 UNIVERSE BLVD, JUNO BEACH, FL, US",
+            "updatedAt": "2025-08-27T04:01:59.639Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-08-27T04:01:59.639Z"
+    },
+    {
+        "company": {
+            "id": 65,
+            "name": "NVIDIA Corporation",
+            "ticker": "NVDA",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.nvidia.com",
+            "sector": "MANUFACTURING",
+            "marketCap": 3885915439000,
+            "description": "Nvidia Corporation is an American multinational technology company incorporated in Delaware and based in Santa Clara, California. It designs graphics processing units (GPUs) for the gaming and professional markets, as well as system on a chip units (SoCs) for the mobile computing and automotive market.",
+            "headquarters": "2701 SAN TOMAS EXPRESSWAY, SANTA CLARA, CA, US",
+            "updatedAt": "2025-07-08T15:13:58.403Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-08T15:13:58.403Z"
+    },
+    {
+        "company": {
+            "id": 60,
+            "name": "Oblong Inc",
+            "ticker": "OBLG",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.oblong.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 7814300,
+            "description": "Oblong, Inc. provides multi-stream collaboration technologies and managed services for video collaboration and network applications in the United States and internationally. The company is headquartered in Los Angeles, California.",
+            "headquarters": "1776 LINCOLN STREET, SUITE 1300, DENVER, CO, US",
+            "updatedAt": "2025-07-09T06:06:03.348Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-09T06:06:03.348Z"
+    },
+    {
+        "company": {
+            "id": 59,
+            "name": "Reddit Inc.",
+            "ticker": "RDDT",
+            "exchange": "NYSE",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.reddit.com",
+            "sector": "TECHNOLOGY",
+            "marketCap": 26875482000,
+            "description": "Reddit, Inc. operates a website that organizes digital communities. The company is headquartered in San Francisco, California.",
+            "headquarters": "303 2ND STREET, SOUTH TOWER, SAN FRANCISCO, CA, UNITED STATES",
+            "updatedAt": "2025-07-11T05:13:02.824Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-11T05:13:02.824Z"
+    },
+    {
+        "company": {
+            "id": 61,
+            "name": "Safello",
+            "ticker": "SFL",
+            "exchange": "NYSE",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "website": "https://www.safello.com",
+            "sector": "ENERGY & TRANSPORTATION",
+            "marketCap": 1191897000,
+            "description": "SFL Corporation Ltd. is engaged in the ownership, operation and chartering of vessels and related assets offshore in medium and long-term charters. The company is headquartered in Hamilton, Bermuda.",
+            "headquarters": "14 PAR-LA-VILLE ROAD, HAMILTON, HM 08, BM",
+            "updatedAt": "2025-07-11T05:41:03.086Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-11T05:41:03.086Z"
+    },
+    {
+        "company": {
+            "id": 70,
+            "name": "Sundae Bar Plc",
+            "ticker": "SBAR",
+            "exchange": "NYSE ARCA",
+            "country": "USA",
+            "countryCode": "GB",
+            "website": "https://www.sundaebar.ai/",
+            "sector": "TECHNOLOGY",
+            "marketCap": null,
+            "description": "",
+            "headquarters": "",
+            "updatedAt": "2025-08-07T15:23:22.253Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-08-07T15:23:22.253Z"
+    },
+    {
+        "company": {
+            "id": 62,
+            "name": "TAO Synergies Inc",
+            "ticker": "TAOX",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://taosynergies.com",
+            "sector": "LIFE SCIENCES",
+            "marketCap": null,
+            "description": "TAO Synergies Inc. owns and operates an AI token. The company is headquartered in New York, New York.",
+            "headquarters": "1185 AVENUE OF THE AMERICAS, 3RD FLOOR, NEW YORK, NY, US",
+            "updatedAt": "2025-08-07T15:54:49.033Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-08-07T15:54:49.033Z"
+    },
+    {
+        "company": {
+            "id": 35,
+            "name": "Virtu Financial, Inc.",
+            "ticker": "VIRT",
+            "exchange": "NASDAQ",
+            "country": "USA",
+            "countryCode": "US",
+            "website": "https://www.virtu.com",
+            "sector": "FINANCE",
+            "marketCap": 6599674000,
+            "description": "Virtu Financial, Inc., a financial services company, provides data, analytics and connectivity products and execution services to clients around the world. The company is headquartered in New York, New York.",
+            "headquarters": "ONE LIBERTY PLAZA, 165 BROADWAY, NEW YORK, NY, US",
+            "updatedAt": "2025-07-10T05:47:03.836Z"
+        },
+        "trendPoints": [],
+        "currentHoldings": [],
+        "currentTotalUsd": 0,
+        "lastUpdated": "2025-07-10T05:47:03.836Z"
+    }
+]
